@@ -1,7 +1,7 @@
 # Setup
 
 ```
-meteor add mxab:accounts-keycloak
+meteor add modr1234:accounts-keycloak
 ```
 
 ## Local setup with docker
@@ -34,5 +34,6 @@ ServiceConfiguration.configurations.upsert(
 );
 
 ```
-
+## Acknoledgment
+This package is forked from mxab/meteor-keycloak and just updated to work with a newer Meteor JS.
 
